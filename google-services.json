@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770480404169",
+    "project_id": "notifications-15",
+    "storage_bucket": "notifications-15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770480404169:android:3b0313fec777941e8d7f18",
+        "android_client_info": {
+          "package_name": "com.triplebit.notifications15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBadhPKS7McR3DfftAkPlYVhUuealla4uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
